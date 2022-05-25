@@ -1,0 +1,1 @@
+export const changeName = (payload) => ({type: "CHANGE_NAME", payload})
